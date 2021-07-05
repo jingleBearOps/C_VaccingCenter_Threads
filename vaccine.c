@@ -1,20 +1,5 @@
 /*
- * UVic CSC 360, Summer 2021
- * This code copyright 2021: Roshan Lasrado, Mike Zastre
- *
- * Assignment 2: Task 1
- * --------------------
- * Simulate a Vaccination Center with `1` Registration Desk and `N` 
- * Vaccination Stations.
- * 
- * Input: Command Line args
- * ------------------------
- * ./vaccine <num_vaccination_stations `N`> <input_test_case_file>
- * e.g.
- *      ./vaccine 10 test1.txt
- * 
- * Input: Test Case file
- * ---------------------
+
  * Each line corresponds to person arrive for vaccinationn 
  * and is formatted as:
  *
